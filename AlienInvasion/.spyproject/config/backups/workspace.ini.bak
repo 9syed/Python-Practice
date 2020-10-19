@@ -6,5 +6,5 @@ save_non_project_files = False
 
 [main]
 version = 0.2.0
-recent_files = ['game_functions.py', 'settings.py', 'ship.py', 'game_stats.py', 'bullet.py', 'alien.py', 'button.py', 'scoreboard.py', 'alien_invasion.py']
+recent_files = ['game_functions.py', 'settings.py', 'ship.py', 'game_stats.py', 'bullet.py', 'button.py', 'scoreboard.py', 'alien_invasion.py']
 
